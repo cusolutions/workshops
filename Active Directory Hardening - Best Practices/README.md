@@ -2,14 +2,14 @@
 mit Christian Uhrmann ( https://www.linkedin.com/in/christianuhrmann/)
 
 ## Informationen:
-⏰ Dauer: 1 Nachmittag (13.00 - 17.00 Uhr) 
-🗓️ Datum: Donnerstag 03. April 2025
-💸 Preis pro TeilnehmerIn: 250.- € zzgl. MwSt.
-📍 Plattform: Microsoft Teams (Online Kurs)
-➡️ Der Workshop wird aufgezeichnet und steht den TeilnehmerInnen Online zur Verfügung
-🗓️ Anmeldefrist: Freitag 28. März 2025
+⏰ Dauer: 1 Nachmittag (13.00 - 17.00 Uhr)<br />
+🗓️ Datum: Donnerstag 03. April 2025<br />
+💸 Preis pro TeilnehmerIn: 250.- € zzgl. MwSt.<br />
+📍 Plattform: Microsoft Teams (Online Kurs)<br />
+➡️ Der Workshop wird aufgezeichnet und steht den TeilnehmerInnen Online zur Verfügung<br />
+🗓️ Anmeldefrist: Freitag 28. März 2025<br />
 
-Info: Jede Teilnehmernin und jeder Teilnehmer erhalten eine Bestätigung der Workshop-Teilnahme.
+Info: Jede Teilnehmernin und jeder Teilnehmer erhalten eine Bestätigung der Workshop-Teilnahme.<br />
 Anmeldung: Schreiben Sie eine E-Mail an info@cu-solutions.de mit dem Betreff "Active Directory Hardening - Best Practices".
 
 ## Beschreibung:
